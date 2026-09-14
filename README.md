@@ -24,3 +24,24 @@ Aplikasi latihan untuk coba coba git
 Adit / akun GitHub: budhaaditya12323@gmail.com
 ## Status
 Proyek awal perkuliahan.
+
+# Aplikasi Pertama
+
+## Tujuan Aplikasi
+Untuk mempermudah belajar Git dan alur kerja repositori.
+
+## Rencana Fitur
+- Dokumentasi sintaks Git.
+- Pustaka alur umum pengembangan aplikasi.
+- Almanak masalah (troubleshooting).
+
+## Cara Menjalankan dan Kendala Setup
+
+**Kondisi Lingkungan Pengembangan (Local Setup):**
+- Proyek ini dikonfigurasi menggunakan Android SDK yang dipasang secara manual per komponen (tanpa Android Studio).
+- Proses pengujian dilakukan langsung menggunakan perangkat HP fisik via USB Debugging.
+
+**Status Uji Coba Perintah:**
+- `flutter pub get`: Berhasil dilakukan untuk mengunduh seluruh dependensi proyek (`Got dependencies!`).
+- `flutter run`: Berhasil dijalankan dan aplikasi dapat terbuka dengan lancar di perangkat HP fisik.
+
