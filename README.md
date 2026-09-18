@@ -41,7 +41,11 @@ Untuk mempermudah belajar Git dan alur kerja repositori.
 - Proyek ini dikonfigurasi menggunakan Android SDK yang dipasang secara manual per komponen (tanpa Android Studio).
 - Proses pengujian dilakukan langsung menggunakan perangkat HP fisik via USB Debugging.
 
+**Penting**
+jalankan perintah: `cd ./working/directory/yang/benar` pada terminal, tergantung di mana projectnya di clone
+
 **Status Uji Coba Perintah:**
 - `flutter pub get`: Berhasil dilakukan untuk mengunduh seluruh dependensi proyek (`Got dependencies!`).
 - `flutter run`: Berhasil dijalankan dan aplikasi dapat terbuka dengan lancar di perangkat HP fisik.
+
 
